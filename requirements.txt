@@ -1,0 +1,13 @@
+# Proyección de las API de Bluetooth de Windows. Hacen falta en ejecución y al compilar.
+winrt-Windows.Devices.Bluetooth>=3.2.1,<3.3
+winrt-Windows.Devices.Bluetooth.Advertisement>=3.2.1,<3.3
+winrt-Windows.Devices.Bluetooth.GenericAttributeProfile>=3.2.1,<3.3
+winrt-Windows.Devices.Bluetooth.Rfcomm>=3.2.1,<3.3
+winrt-Windows.Devices.Enumeration>=3.2.1,<3.3
+winrt-Windows.Devices.Radios>=3.2.1,<3.3
+winrt-Windows.Foundation>=3.2.1,<3.3
+winrt-Windows.Foundation.Collections>=3.2.1,<3.3
+winrt-Windows.Networking>=3.2.1,<3.3
+winrt-Windows.Networking.Sockets>=3.2.1,<3.3
+winrt-Windows.Storage.Streams>=3.2.1,<3.3
+winrt-runtime>=3.2.1,<3.3
